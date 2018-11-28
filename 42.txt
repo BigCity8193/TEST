@@ -1,0 +1,15 @@
+42个星际学院课程涵盖了C编程、Linux、网络、系统管理、C++、Web、Web的基本层次。
+
+框架和汇编程序。之后，学生继续学习算法、数据结构、体系结构和设计、文档、API，
+创造电子游戏。
+
+计算机程序设计，命令式程序设计，函数程序设计，面向对象程序设计，算法与人工智能，绘图
+，适应与创新
+，网状物，技术集成
+，系统编程
+，网络与系统管理
+，安全性，数据库与数据
+，并行计算
+COMPUTER PROGRAMMING，IMPERATIVE PROGRAMMING，FUNCTIONNAL PROGRAMMING，OBJECT-ORIENTED PROGRAMMING
+，ALGORITHMS & AI，GRAPHICS，ADAPTATION & CREATIVITY，WEB，TECHNOLOGY INTEGRATION，SYSTEM PROGRAMMATION
+，NETWORK & SYSTEM ADMINISTRATION，SECURITY，DB & DATA，PARALLEL COMPUTING
